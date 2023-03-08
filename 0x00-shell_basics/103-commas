@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo ls -v -m -p .
+sudo ls -m -p -a 
