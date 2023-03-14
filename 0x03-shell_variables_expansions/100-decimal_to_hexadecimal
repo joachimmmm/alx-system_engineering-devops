@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($BINARY#$HEXADECIMAL))
+printf "%x\n" $DECIMAL
